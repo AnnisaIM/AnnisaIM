@@ -2,7 +2,7 @@
 - 👀 I’m interested in Business Analyst
 - 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on projects and job
-- 📫 How to reach me : [linkedin]((https://www.linkedin.com/in/annisa-indah-b9b253176/))
+- 📫 How to reach me : [linkedin]
 
 <!---
 AnnisaIM/AnnisaIM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
